@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<conio.h> //some software of c does not accept program if conio is not present
 void main()
 {
     int i,n,r,temp,s=0;
